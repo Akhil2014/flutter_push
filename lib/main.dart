@@ -44,9 +44,9 @@ class _MyHomePageState extends State<MyHomePage> {
         body:SingleChildScrollView(
           child: Column(
             children: [
-              Container(child: Text('Akhil 12'),),
-              Container(child: Text('Akhil 12'),),
-              Container(child: Text('Akhil 12 '),),
+              Container(child: Text('Akhil 120'),),
+              Container(child: Text('Akhil 120'),),
+              Container(child: Text('Akhil 120 '),),
 
             ],
           ),
