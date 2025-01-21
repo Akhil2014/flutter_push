@@ -47,7 +47,6 @@ class _MyHomePageState extends State<MyHomePage> {
               Container(child: Text('Akhil 1202'),),
               Container(child: Text('Akhil 1202'),),
               Container(child: Text('Akhil 1202 gggg '),),
-
             ],
           ),
         )
